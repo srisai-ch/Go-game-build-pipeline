@@ -1,4 +1,4 @@
-# Python-Scripting-Project
+# Go-game-build-pipeline
 
 A small utility that finds "game" directories inside a data tree, copies them to a new `games` directory (removing the game suffix), compiles each game's Go source, and produces a JSON metadata file describing the games.
 
